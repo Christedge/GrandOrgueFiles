@@ -12,7 +12,7 @@ Currently it is available for [Hauptwerk](https://www.hauptwerk.com), but not fo
 
 * [Download](https://github.com/GrandOrgue/grandorgue/releases) and install GrandOrgue (version 3.14 or later is required).
 
-* [Download](https://github.com/Christedge/GrandOrgueFiles/archive/refs/heads/main.zip) the files of this repository.
+* [Download](https://github.com/Christedge/GrandOrgueFiles/releases/) the files of this repository.
 
 * Locate the folder »000460«. Move the downloaded files adjacent to this folder, resulting in the following structure:
   
