@@ -2,9 +2,9 @@
 
 ## Overview
 
-[Johann Nepomuk Holzhey – Wikipedia](https://de.wikipedia.org/wiki/Johann_Nepomuk_Holzhey) was a renowned late baroque organ builder who built about 40 organs, 4 of them with three keybeds. One of the latter can be found at ([Weissenau Abbey - Wikipedia](https://en.wikipedia.org/wiki/Weissenau_Abbey)). Prospectum [offers a sample set](https://www.prospectum.com/index.php?lang=en&id1=2&id2=9) for [Hauptwerk](https://www.hauptwerk.com) which is one of my absolute favourites. At the moment, the standard version is available for about 199 €, and IMO it's well worth it.
+[Johann Nepomuk Holzhey](https://de.wikipedia.org/wiki/Johann_Nepomuk_Holzhey) was a renowned late baroque organ builder who built about 40 organs, 4 of them with three keybeds. One of the latter can be found at ([Weissenau Abbey](https://en.wikipedia.org/wiki/Weissenau_Abbey). Prospectum [offers a sample set](https://www.prospectum.com/index.php?lang=en&id1=2&id2=9) for [Hauptwerk](https://www.hauptwerk.com) which is one of my absolute favourites. At the moment, the standard version is available for about 199 €, and IMO it's well worth it.
 
-Unfortunately it is not available for [GrandOrgue](https://github.com/GrandOrgue/grandorgue). In this repository you'll find an organ definition file (ODF) and additional files so you can use the sample set in Grand Orgue.
+Unfortunately it is not available for [GrandOrgue](https://github.com/GrandOrgue/grandorgue). In this repository you'll find an organ definition file (ODF) and additional files so you can use the sample set with Grand Orgue.
 
 ## Installation
 
